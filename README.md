@@ -14,28 +14,17 @@
 ---
 
 ### 🤝 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a> &nbsp;
-  <a href="https://tiktok.com" target="_blank">
-    <img src="https://shields.io" alt="TikTok" />
-  </a>
-</p>
+- 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+- 📱 **TikTok:** [://tiktok.com](https://www.://tiktok.com)
 
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://shields.io" alt="Python" /> &nbsp;
-  <img src="https://shields.io" alt="TypeScript" /> &nbsp;
-  <img src="https://shields.io" alt="JavaScript" /> &nbsp;
-  <img src="https://shields.io" alt="MySQL" />
-</p>
+- **Core Languages:** Python, JavaScript, TypeScript
+- **Database Systems:** MySQL, Relational Databases
+- **Specializations:** LLM Orchestration, Multi-Agent Workflows, Custom Financial APIs
 
 ---
 
 ### 📊 GitHub Activity:
-<p align="left">
-  <img src="https://vercel.app" alt="Naeem's GitHub Stats" />
-</p>
+*Stats card will activate as your code contributions grow! Feel free to explore my repositories below.*
