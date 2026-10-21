@@ -1,46 +1,73 @@
-<div align="center">
 
-# 👋 Hi, I'm Naeem Arif
+<h1 align="center">👋 Hi, I'm Naeem Arif</h1>
 
-### 💻 Aspiring Data Analyst | Python & Excel Learner
+<h3 align="center">💼 Aspiring Financial Analyst | 🤖 AI Automation Enthusiast</h3>
 
-*Turning data into insights, one step at a time.* 🚀
+<p align="center">
+  <i>Bridging Finance and Technology through Data, Python & AI Automation 🚀</i>
+</p>
 
-<img src="https://img.shields.io/badge/Focus-Data%20Analytics-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Learning-Python-06B6D4?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Tools-Excel-16A34A?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Financial%20Analysis-0D9488?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interest-AI%20Automation-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 I'm currently learning **Data Analytics**.
-- 📊 Interested in **Microsoft Excel, Python, and Data Visualization**.
-- 🎯 Building practical skills through hands-on projects.
-- 🤝 Open to connecting with learners and professionals.
+I'm an aspiring Financial Analyst passionate about combining financial knowledge with Artificial Intelligence and automation.
 
-## 🛠️ Skills & Tools
+- 💰 Interested in financial analysis and financial reporting.
+- 📊 Learning Microsoft Excel for financial data analysis.
+- 🐍 Exploring Python for data processing and automation.
+- 🤖 Interested in AI-powered financial workflows.
+- ⚙️ Exploring ways to reduce repetitive tasks through automation.
+- 🌱 Continuously learning and building practical skills.
+
+## 🛠️ Skills & Technologies
 
 <p>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Automation-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+## 🎯 Career Goals
+
+- Build strong financial analysis and reporting skills.
+- Learn financial modeling and spreadsheet automation.
+- Use Python and AI tools to improve financial workflows.
+- Create practical projects combining finance and technology.
+
+## 📂 Projects
+
+I'm working toward building projects in these areas:
+
+- 📈 Financial Data Analysis
+- 📊 Excel Financial Reports
+- 🤖 AI-Assisted Financial Workflow Automation
+- 🐍 Python Data Processing
+
+*Project links will be added as I build and publish them.*
 
 ## 🤝 Connect With Me
 
-<a href="https://linkedin.com/in/naeem-arif-pk">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/naeem-arif-pk">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  ✨ Learn • Build • Automate • Grow ✨
+</p>
 
-### ✨ Learn • Build • Grow
-
-*Every expert was once a beginner.* 🌟
-
-</div>
+<p align="center">
+  <i>Building tomorrow's financial solutions with technology.</i> 🚀
+</p>
